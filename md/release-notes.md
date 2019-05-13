@@ -63,7 +63,8 @@ EJB communication protocol with the engine is now deprecated. Removal is planned
 ## Technology updates
 
 ### Bonita Studio
-Underlying Eclipse version has been updated to 2018-12 version integrating Java 11 support.  
+Underlying Eclipse version has been updated to 2018-12 version integrating Java 11 support. 
+Bonita Studio Community installers are now packaged with a JRE 11 by default (instead of a JRE 8).
 For Linux users, you now need GTK3 library to be installed. 
 
 ### JTA transaction manager replacement
