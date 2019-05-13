@@ -44,7 +44,7 @@ More info on how to use it [here](variables.md).
 
 ## Industrialization
 
-## Theme projects integrated in Bonita project (Subscription only)
+### Theme projects integrated in Bonita project (Subscription only)
 More info on how to use it [here](customize-living-application-theme.md).
 
 ## Deprecation
