@@ -47,6 +47,11 @@ More info on how to use it [here](variables.md).
 ### Theme projects integrated in Bonita project (Subscription only)
 More info on how to use it [here](customize-living-application-theme.md).
 
+## Miscellaneous
+
+### Import a bos archive in Bonita Studio using Drag and Drop
+Bos archive can now be imported in Bonita Studio by being dragged from a file system and dropped into the Bonita project explorer.
+
 ## Deprecation
 
 ### EJB
