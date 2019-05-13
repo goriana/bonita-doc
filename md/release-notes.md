@@ -34,10 +34,18 @@ In order to be compatible with Java 11, you must update the following plug-ins d
 
 ## Data Management
 
+### Edition form generation from a contract with Business data or Documents
+An edition form can now be generated to edit a Business data or a Document from a task contract. More info on how to use it [here](contracts-and-contexts.md).
+
 <a id="uid-lazyRef-filter"/>
 
 ### New embedded AngularJS filter to resolve business object lazy references
 More info on how to use it [here](variables.md).
+
+## Industrialization
+
+## Theme projects integrated in Bonita project (Subscription only)
+More info on how to use it [here](customize-living-application-theme.md).
 
 ## Deprecation
 
@@ -52,8 +60,11 @@ EJB communication protocol with the engine is now deprecated. Removal is planned
 ### 32 bits installers
 32 bits installers for all platforms are no longer provided.
 
-
 ## Technology updates
+
+### Bonita Development Suite
+Underlying Eclipse version has been updated to 2018-12 version integrating Java 11 support.  
+For Linux users, you now need GTK3 library to be installed. 
 
 ### JTA transaction manager replacement
 
